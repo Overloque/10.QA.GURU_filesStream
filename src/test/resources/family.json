@@ -2,12 +2,12 @@
   "parent": true,
   "children": [
     {
-      "name": "Maria",
-      "age": "18"
+      "name": "Mike",
+      "age": 19
     },
     {
-      "name": "Mike",
-      "age": "19"
+      "name": "Maria",
+      "age": 18
     }
   ]
 }
