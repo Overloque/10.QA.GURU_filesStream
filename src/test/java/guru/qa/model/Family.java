@@ -5,19 +5,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 
 public class Family {
-    //    {
-//        "parent": true,
-//            "children": [
-//        {
-//            "name": "Maria",
-//                "age": 18
-//        },
-//        {
-//            "name": "Mike",
-//                "age": 19
-//        }
-//  ]
-//    }
     @JsonProperty("parent")
     private boolean parent;
     @JsonProperty("children")
